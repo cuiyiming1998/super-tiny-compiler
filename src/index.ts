@@ -1,1 +1,5 @@
-const a = 1
+import { tokenizer } from './tokenizer'
+
+export {
+  tokenizer,
+}
